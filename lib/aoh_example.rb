@@ -18,18 +18,7 @@ def assembled_aoh
 #     { name:  "Kate Gompert", occupation: "None" },
 #     { name:  "Bruce Green", occupation: "Fan of Mildred" }
 #   ]
-  
-  
-  assembled_array = [
-    DON_G,
-    JOELLE_VD,
-    PAT_M,
-    KATE_G,
-    BRUCE_G
-  ]
-  puts assembled_array
-  assembled_array
-  
+
 end
 
 def literal_aoh
