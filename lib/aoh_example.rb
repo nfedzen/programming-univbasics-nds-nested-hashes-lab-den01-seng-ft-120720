@@ -17,7 +17,7 @@ def assembled_aoh
     { name:  "Kate Gompert", occupation: "None" },
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
- 
+  puts assembled_array
   
 end
 
