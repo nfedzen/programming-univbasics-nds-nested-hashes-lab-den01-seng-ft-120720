@@ -18,6 +18,7 @@ def assembled_aoh
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
   puts assembled_array
+  assembled_array
   
 end
 
